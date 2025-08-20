@@ -1,9 +1,14 @@
 fileFormatVersion: 2
-guid: c632678c02f96c64ab37582ea001b909
+guid: 21fcd737a5d3a3a4987aef2fbe3bf659
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: YoutubeLogo
+    second: {fileID: 2100000, guid: 0352f45c6dc180a439a6e26e57fef851, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
