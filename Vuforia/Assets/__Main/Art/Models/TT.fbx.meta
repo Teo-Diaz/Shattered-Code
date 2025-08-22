@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 318107b4f5eea21409191bb97ddaba2e
+guid: 943d3b346f349544a84d813b99b1628d
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
@@ -7,8 +7,13 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: WhatsAppLogo
-    second: {fileID: 2100000, guid: ced01c86a4a235445bae24fbca4edbcd, type: 2}
+      name: TikTokLogo2
+    second: {fileID: 2100000, guid: 66c080623d3015a47806c09a9ae78601, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TikTokLogo2_2
+    second: {fileID: 2100000, guid: 12ede5ccffa0e9f419dda0c55cbe1fcb, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

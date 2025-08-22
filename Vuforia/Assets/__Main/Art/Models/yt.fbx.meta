@@ -7,8 +7,13 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: YoutubeLogo
-    second: {fileID: 2100000, guid: 0352f45c6dc180a439a6e26e57fef851, type: 2}
+      name: YoutubeLogo2
+    second: {fileID: 2100000, guid: 3659455f9f5a6984889c25445311ec73, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: YoutubeLogo2_2
+    second: {fileID: 2100000, guid: b7ddabe1d42726a43b51f10315c5f3b7, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

@@ -7,8 +7,13 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: InstagramLogo
-    second: {fileID: 2100000, guid: 44045c90996425a4e8baf7f9942a6bb0, type: 2}
+      name: InstagramLogo2
+    second: {fileID: 2100000, guid: 937d373bb6d84f64a9f28112330d7eec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: InstagramLogo2_2
+    second: {fileID: 2100000, guid: e96e712cf5aeb7f42bfdee9a9e096aa2, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
