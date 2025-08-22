@@ -1,0 +1,10 @@
+# ninja log v5
+45	1258	7775279649636010	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	3026f611eca5443c
+1	1293	7775279649977374	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	7aac90e616abf9f3
+105	1310	7775279650145361	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	ff994e5c13a83ca5
+16	1349	7775279650547572	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	c1ee9ff45dc5c18f
+81	1361	7775279650633977	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	70212242b9049dbb
+126	1496	7775279651983632	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	45d18052f866a42c
+62	1598	7775279653058098	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	6d484f09a1a8f9ce
+31	1664	7775279653691564	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	bb44f216a6763639
+1664	1828	7775279655345680	D:/Guthib/Shattered-Code/Vuforia/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/2az1x166/obj/arm64-v8a/libgame.so	3731678b9d9c5dfd
