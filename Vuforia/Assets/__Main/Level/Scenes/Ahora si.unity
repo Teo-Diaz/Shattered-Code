@@ -1773,7 +1773,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   rawImage: {fileID: 24356012}
   videoPlayer: {fileID: 2037996623}
-  videoUrl: https://raw.githubusercontent.com/Teo-Diaz/Shattered-Code/refs/heads/main/candy_cookie_chocolate.mp4
+  videoUrl: https://raw.githubusercontent.com/Teo-Diaz/Shattered-Code/refs/heads/main/Media/candy_cookie_chocolate.mp4
 --- !u!328 &2037996623
 VideoPlayer:
   m_ObjectHideFlags: 0
